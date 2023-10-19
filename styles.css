@@ -41,8 +41,8 @@
 	border-left-width:1px;
 	border-right-width:1px;
 	border-top-color:rgb(255,255,0);
-	order-bottom-color:rgb(255,255,0);
-	order-left-color:rgb(255,255,0);
-	order-right-color:rgb(255,255,0);
+	border-bottom-color:rgb(255,255,0);
+	border-left-color:rgb(255,255,0);
+	border-right-color:rgb(255,255,0);
 
 }
