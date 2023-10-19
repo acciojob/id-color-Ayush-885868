@@ -1,13 +1,48 @@
 /*  your css code here. If applicable */
 #yellow{
 	background-color: yellow;
-	border: 3px solid green;
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-color:rgb(0,128,0);
+	border-bottom-color:rgb(0,128,0);
+	border-left-color:rgb(0,128,0);
+	border-right-color:rgb(0,128,0);
 }
 #red{
 	background-color: red;
-	border: 3px solid green;
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-color:rgb(0,0,0);
+	border-bottom-color:rgb(0,0,0);
+	border-left-color:rgb(0,0,0);
+	border-right-color:rgb(0,0,0);
+
 }
 #green{
 	background-color: green;
-	border: 3px solid yellow;
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-style:solid;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-color:rgb(255,255,0);
+	order-bottom-color:rgb(255,255,0);
+	order-left-color:rgb(255,255,0);
+	order-right-color:rgb(255,255,0);
+
 }
